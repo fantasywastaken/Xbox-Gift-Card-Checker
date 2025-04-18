@@ -65,7 +65,6 @@ The script will:
 - Only works for Turkish currency codes in the current version
 - Time delays are added to reduce detection risk
 - If Microsoft challenges login (2FA, captchas, etc.), those accounts will fail
-- It is proxyless and automatically switches to a new account every 25 codes to avoid rate limiting
 
 ---
 
