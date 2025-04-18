@@ -23,7 +23,7 @@ Currently, this version is tailored for **Turkish Lira (₺)**. However, it can 
 
 Make sure you have Python 3.8 or later installed.
 
-### 1. Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install DrissionPage loguru
